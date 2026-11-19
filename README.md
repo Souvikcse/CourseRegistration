@@ -1,8 +1,6 @@
 Run these from the repo root, `CourseRegistration.Api`. It holds the `CourseRegistration.Api` and `CourseRegistration.Tests` folders.
 
-<<<<<<< HEAD
-**Prerequisite:** .NET 10 SDK (`dotnet --version` should show 10.x).
-=======
+**Prerequisite:** .NET 9 SDK 
 Initial .NET 9 Web API scaffold for the course enrollment and waitlist assessment.
 
 **1. Build everything**
