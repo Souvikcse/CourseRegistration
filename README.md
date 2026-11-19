@@ -1,6 +1,6 @@
 # Course Registration API
 
-Initial .NET 10 Web API scaffold for the course enrollment and waitlist assessment.
+Initial .NET 9 Web API scaffold for the course enrollment and waitlist assessment.
 
 ## Structure
 
