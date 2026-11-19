@@ -4,7 +4,6 @@ Run these from the repo root, `CourseRegistration.Api`. It holds the `CourseRegi
 **Prerequisite:** .NET 10 SDK (`dotnet --version` should show 10.x).
 =======
 Initial .NET 9 Web API scaffold for the course enrollment and waitlist assessment.
->>>>>>> 6fb4485becb03e5fdeb76162d4e9cf5a8b8c2156
 
 **1. Build everything**
 ```powershell
